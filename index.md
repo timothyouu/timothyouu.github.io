@@ -18,6 +18,7 @@ My GitHub page is http://github.com/timothyouu.
     user and look aesthetically pleasing.
 
 * Lab 6
+
     Lab 6, part 2 was a favorite because I was able to learn a new card game
     called Black Jack and was able to use the things I learned in the class to
     code a card game. During this lab, I was able to use multiple functions
@@ -27,6 +28,7 @@ My GitHub page is http://github.com/timothyouu.
     invalid input.
 
 * Lab 7
+
     Lab 7, part 1 was a favorite because I was able to code something that will
     be useful and utilized in the outside world. The code is able to tell the
     user if street parking is allowed based on the time, day, and street.
